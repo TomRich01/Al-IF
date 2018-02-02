@@ -14,11 +14,9 @@ To build the desktop version:
 - run `npm install` to get the Node packages
 - run `bower install` to get the Bower packages
 
-You can now run the Squiffy Editor using `npm start`. (You can also run it in a web browser using `npm run-script web`
+You can now run the Al IF Editor using `npm start`. (You can also run it in a web browser using `npm run-script web`
 and going to `http://localhost:8282`)
 
 To package the desktop app, a script is provided for each platform:
 
-- `gulp osx` creates `Squiffy-darwin-x64\Squiffy.app`
-- `gulp linux` creates `Squiffy-linux-x64\Squiffy`
 - `gulp windows` creates `Squiffy-win32-ia32\Squiffy.exe`
