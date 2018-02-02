@@ -1,9 +1,7 @@
-# Squiffy Editor
+# Al If Editor
 
-This repository contains the code for the Squiffy Editor, which is packaged as both a website and a
-downloadable desktop application for Windows, OS X and Linux.
+This repository contains the code for the AL IF Editor.
 
-The website version can be found at http://textadventures.co.uk/squiffy/editor.
 
 The Squiffy Compiler is in a [separate repository](https://github.com/textadventures/squiffy).
 
